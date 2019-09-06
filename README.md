@@ -16,3 +16,9 @@ A description of each application follows.
 NormalCalc (http://lmcstatistics.shinyapps.io/NormalCalc)
 
 TCalc   (http://lmcstatistics.shinyapps.io/TCalc)
+
+Groups (http://lmcstatistics.shinyapps.io/Groups)
+
+biasedcoin  (http://lmcstatistics.shinyapps.io/biasedcoin)
+
+catvcat   (http://lmcstatistics.shinyapps.io/catvcat)
