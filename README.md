@@ -9,7 +9,8 @@ algorithm to display the linear combination of two positive integers, giving the
 fast modular exponentiation.
 
 The Shiny application framework was developed by RStudio, who hosts the web site lmcstatistics.shinyapps.io, and each application
-comprises two R programs ui.R and server.R. For an introduction to Shiny, see the RProject website (Add link here).
+comprises two R programs ui.R and server.R. For an introduction to Shiny, see the Shiny website 
+(http://shiny.rstudio.com).
 
 A description of each application follows.
 ### Statistics Applications
