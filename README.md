@@ -10,3 +10,8 @@ fast modular exponentiation.
 
 The Shiny application framework was developed by RStudio, who hosts the web site lmcstatistics.shinyapps.io, and each application
 comprises two R programs ui.R and server.R. For an introduction to Shiny, see the RProject website (Add link here).
+
+A description of each application follows.
+### Statistics Applications
+NormalCalc (http://lmcstatistics.shinyapps.io/NormalCalc)
+TCalc   (http://lmcstatistics.shinyapps.io/TCalc)
