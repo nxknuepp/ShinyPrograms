@@ -14,4 +14,5 @@ comprises two R programs ui.R and server.R. For an introduction to Shiny, see th
 A description of each application follows.
 ### Statistics Applications
 NormalCalc (http://lmcstatistics.shinyapps.io/NormalCalc)
+
 TCalc   (http://lmcstatistics.shinyapps.io/TCalc)
