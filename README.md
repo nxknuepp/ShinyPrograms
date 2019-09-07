@@ -39,6 +39,7 @@ A description of each application follows.
 
 #### **Newdice**   (http://lmcstatistics.shinyapps.io/newdice)
   Build you own face numbers, and roll it numerous times, showing the limiting normal distribution as the number of rolls increases.
+![new die](imgs/newdice.png)
 
 ## Discrete Mathematics Applications
 #### **Euclid**    (http://lmcstatistics.shinyapps.io/Euclid)
