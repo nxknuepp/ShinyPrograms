@@ -26,10 +26,11 @@ catvcat   (http://lmcstatistics.shinyapps.io/catvcat)
 
 ### Discrete Mathematics Applications
 #### Euclid    (http://lmcstatistics.shinyapps.io/Euclid)
-![Euclidean Algorithm](imgs/Euclid.png)
   Finds the GCD of two positive integers along with the linear combination of these integers that yields the GCD. 
+![Euclidean Algorithm](imgs/Euclid.png)
   
 #### modpower  (http://lmcstatistics.shinyapps.io/modpower)
-![Modular Power](imgs/ModExp)
   Fast modular exponentiation of integer base, exponents and modulus.
+![Modular Power](imgs/ModExp.png)
+
   
