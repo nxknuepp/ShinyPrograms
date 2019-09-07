@@ -33,7 +33,9 @@ A description of each application follows.
   Simulates the tossing of a biased coin, with final reveal of P(Heads).
 ![Biased Coin](imgs/BiasedCoin.png)
 
-catvcat   (http://lmcstatistics.shinyapps.io/catvcat)
+#### **catvcat**   (http://lmcstatistics.shinyapps.io/catvcat)
+  Analyze the packet datasets for categorical data. Tabular and graphical displays.
+![Cat versus Cat](imgs/Categorical.png)
 
 ### Discrete Mathematics Applications
 #### **Euclid**    (http://lmcstatistics.shinyapps.io/Euclid)
