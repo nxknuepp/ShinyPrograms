@@ -31,7 +31,7 @@ A description of each application follows.
 
 #### **biasedcoin**  (http://lmcstatistics.shinyapps.io/biasedcoin)
   Simulates the tossing of a biased coin, with final reveal of P(Heads).
-![Biased Coin](imgs/biasedcoin)
+![Biased Coin](imgs/BiasedCoin.png)
 
 catvcat   (http://lmcstatistics.shinyapps.io/catvcat)
 
