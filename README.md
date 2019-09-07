@@ -29,7 +29,9 @@ A description of each application follows.
   Supports the random rectangle experiment from earlier versions of the LMC statistics packets by automating the random selection and averaging of selected rectangle sizes.
 ![Rectangles](imgs/Rectangles.png)
 
-biasedcoin  (http://lmcstatistics.shinyapps.io/biasedcoin)
+#### **biasedcoin**  (http://lmcstatistics.shinyapps.io/biasedcoin)
+  Simulates the tossing of a biased coin, with final reveal of P(Heads).
+![Biased Coin](imgs/biasedcoin)
 
 catvcat   (http://lmcstatistics.shinyapps.io/catvcat)
 
