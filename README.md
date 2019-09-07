@@ -24,6 +24,10 @@ A description of each application follows.
   
 #### **Groups** (http://lmcstatistics.shinyapps.io/Groups)
   Takes classroom attendance and generates random student groups based on attendance. Requires a *.txt file as input, with one student per line in the file.
+  
+#### **RectSample** (http://lmcstatistics.shinyapps.io/RectSamplt)
+  Supports the random rectangle experiment from earlier versions of the LMC statistics packets by automating the random selection and averaging of selected rectangle sizes.
+![Rectangles](img/Rectangles.png)
 
 biasedcoin  (http://lmcstatistics.shinyapps.io/biasedcoin)
 
