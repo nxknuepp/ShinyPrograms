@@ -13,7 +13,7 @@ comprises two R programs ui.R and server.R. For an introduction to Shiny, see th
 (http://shiny.rstudio.com).
 
 A description of each application follows.
-### Statistics Applications
+## Statistics Applications
 #### **NormalCalc** (http://lmcstatistics.shinyapps.io/NormalCalc)
   A calculator for finding areas and percentiles for the normal distribution.
 ![NormalCalc](imgs/NormalCalc.png)
@@ -37,7 +37,10 @@ A description of each application follows.
   Analyze the packet datasets for categorical data. Tabular and graphical displays.
 ![Cat versus Cat](imgs/Categorical.png)
 
-### Discrete Mathematics Applications
+#### **Newdice**   (http://lmcstatistics.shinyapps.io/newdice)
+  Build you own face numbers, and roll it numerous times, showing the limiting normal distribution as the number of rolls increases.
+
+## Discrete Mathematics Applications
 #### **Euclid**    (http://lmcstatistics.shinyapps.io/Euclid)
   Finds the GCD of two positive integers along with the linear combination of these integers that yields the GCD. 
 ![Euclidean Algorithm](imgs/Euclid.png)
