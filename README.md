@@ -14,11 +14,16 @@ comprises two R programs ui.R and server.R. For an introduction to Shiny, see th
 
 A description of each application follows.
 ### Statistics Applications
-NormalCalc (http://lmcstatistics.shinyapps.io/NormalCalc)
+#### **NormalCalc** (http://lmcstatistics.shinyapps.io/NormalCalc)
+  A calculator for finding areas and percentiles for the normal distribution.
+![NormalCalc](imgs/NormalCalc.png)
 
-TCalc   (http://lmcstatistics.shinyapps.io/TCalc)
-
-Groups (http://lmcstatistics.shinyapps.io/Groups)
+#### **TCalc**   (http://lmcstatistics.shinyapps.io/TCalc)
+  A culculator for finding areas and percentiles for the T distribution.
+![TCalc](imgs/TCalc.png)
+  
+#### **Groups** (http://lmcstatistics.shinyapps.io/Groups)
+  Takes classroom attendance and generates random student groups based on attendance. Requires a *.txt file as input, with one student per line in the file.
 
 biasedcoin  (http://lmcstatistics.shinyapps.io/biasedcoin)
 
