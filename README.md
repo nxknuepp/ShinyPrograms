@@ -22,8 +22,13 @@ A description of each application follows.
   A culculator for finding areas and percentiles for the T distribution.
 ![TCalc](imgs/TCalc.png)
   
+#### **Module3**    (http://lmcstatistics.shinyapps.io/Module3)
+    Scatterplots and regression for data from Module 3 (categorical versus categorical).
+![Module3](imgs/Module3.png)
+
 #### **Groups** (http://lmcstatistics.shinyapps.io/Groups)
   Takes classroom attendance and generates random student groups based on attendance. Requires a *.txt file as input, with one student per line in the file.
+![Groups](imgs/Groups.png)
   
 #### **RectSample** (http://lmcstatistics.shinyapps.io/RectSample)
   Supports the random rectangle experiment from earlier versions of the LMC statistics packets by automating the random selection and averaging of selected rectangle sizes.
